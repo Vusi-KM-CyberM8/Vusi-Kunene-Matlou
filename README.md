@@ -3,7 +3,7 @@
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
-<h3 align="center">A qualified Cyber Securiy Specialist.</h3>
+<h3 align="center">A qualified Cyber Securiy Specialist at CyberM8.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vusi-km-cyberm8" alt="vusi-km-cyberm8" /></a> </p>
 
