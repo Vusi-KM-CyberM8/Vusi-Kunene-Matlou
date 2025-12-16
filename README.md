@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **matlouvk@cyberm8.org.za**
 
-- ⚡ Fun fact **I think vulnerabilities are vulnerable t ZeroTrust.**
+- ⚡ Fun fact **I believe vulnerabilities are themselves vulnerable to Zero Trust Architecture.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
