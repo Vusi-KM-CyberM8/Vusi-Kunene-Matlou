@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cyber-logo.png" alt="Vusi Kunene Matlou Logo" width="100%" />
+  <img src="cyber-logo.png" alt="Vusi Kunene Matlou Logo" width="80%" />
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
