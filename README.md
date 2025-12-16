@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vusi-Kunene-Matlou/Vusi-Kunene-Matlou/downloads/main/cyber-logo.png" alt="Vusi Kunene Matlou Cybersecurity Logo" width="100%" />
+  <img src="cyber-logo.png" alt="Vusi Kunene Matlou Logo" width="100%" />
+</p>
 </p>
 <h1 align="center">Hi 👋, I'm Vusi Kunene Matlou</h1>
 <h3 align="center">A qualified Cyber Securiy Specialist.</h3>
